@@ -1,0 +1,15 @@
+pip install future typing
+pip install --upgrade \
+        numpy \
+        tensorflow-gpu==${TENSORFLOW_VERSION} \
+        keras \
+        h5py \
+        opencv-python \
+        transformers \
+        matplotlib \
+        scikit-image \
+        nvidia-ml-py3 \
+        decord \
+        pandas \
+        git+https://github.com/tensorpack/dataflow.git
+        pyyaml
