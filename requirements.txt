@@ -11,5 +11,5 @@ pip install --upgrade \
         nvidia-ml-py3 \
         decord \
         pandas \
-        git+https://github.com/tensorpack/dataflow.git
+        git+https://github.com/tensorpack/dataflow.git \
         pyyaml
